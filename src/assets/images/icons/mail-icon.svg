@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg4265"
+   width="26.666668"
+   height="21.333332"
+   viewBox="0 0 26.666668 21.333332">
+  <defs
+     id="defs4269" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview4267"
+     showgrid="false"
+     inkscape:zoom="11.062501"
+     inkscape:cx="13.333334"
+     inkscape:cy="10.666666"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4265" />
+  <g
+     id="g4275"
+     transform="translate(0.18079103,0.09039549)">
+    <path
+       style="fill:#ffffff;stroke-width:1.33333337"
+       d="M 0,10.666666 V 0 H 13.333334 26.666668 V 10.666666 21.333332 H 13.333334 0 Z"
+       id="path4279"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#fefefe;stroke-width:1.33333337"
+       d="M 0.27724768,10.999999 0.6666667,0.66666662 H 13.333334 26.000001 L 26.38942,10.999999 26.77884,21.333332 H 13.333334 -0.11217135 Z"
+       id="path4277"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
