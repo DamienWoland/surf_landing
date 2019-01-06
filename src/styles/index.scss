@@ -2,6 +2,7 @@
 @import "reset";
 @import "fonts";
 @import "media";
+@import "surfboard";
 
 .center {
     max-width: 1180px;
@@ -10,8 +11,8 @@
 }
 
 .main {
-    min-height: 1310px;
     background-image: url(../assets/images/main-bg.jpg);
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: top left;
 }
@@ -126,4 +127,5 @@ header {
         color: #fff;
     }
 }
+
 
